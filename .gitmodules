@@ -8,3 +8,6 @@
 [submodule "Web-Applications"]
 	path = Web-Applications
 	url = https://github.com/Rhaegal222/Web-Applications.git
+[submodule "Fondamenti-di-reti"]
+	path = Fondamenti-di-reti
+	url = https://github.com/Rhaegal222/Fondamenti-di-reti
